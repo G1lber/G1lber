@@ -1,4 +1,4 @@
-## Hola mi soy G1lber👋 
+## Hola soy G1lber👋 
 
 💻 Desarrollador web especializado.  
 🚀 Actualmente trabajando en [Carnetizacion-Django].  
