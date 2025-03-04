@@ -13,6 +13,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🚀 Lenguajes más usados
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1lber&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs"/>
+</div>
 <!--
 **G1lber/G1lber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
